@@ -9,5 +9,4 @@ example : if the interface to be affected is eth0
           
           python mac.py -i eth0 -m 11:22:33:44:55:66
  
-S-T-O-R-M
-Suggestions are welcome !
+developed by S-T-O-R-M
